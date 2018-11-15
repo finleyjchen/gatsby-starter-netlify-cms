@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: About Me
 ---
 Hi there! My name is Finley Chen. I am a web developer who works with businesses to create an outstanding online web presence.
 
